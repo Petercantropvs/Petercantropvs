@@ -1,21 +1,9 @@
 ### Hi there, I'm Pedro! 👋
 
-**Scientific Data Analyst & Python Developer** based in Argentina.
-I combine the rigor of **Astronomy** with code to solve complex problems.
+🔭 **Advanced Astronomy student** based in Argentina.
+🥁 **Drummer**, currently playing in a jazz quartet 🎷.
+⚡ **Origamist**
 
-🔭 **Current Status:**
-- Advanced Astronomy Student at **UNLP** (Coursework completed, finalizing exams & thesis).
-- Seeking a **Data Analysis** or **Development** role to apply my skills in real-world projects.
-
-🛠️ **Tech Stack:**
-- **Languages:** Python (Pandas, NumPy, Scipy), SQL, LaTeX, Fortran.
-- **Tools:** Git, Jupyter Notebooks.
-- **Interests:** Data Cleaning, Statistical Modeling, Automation.
-
-⚡ **Hobbies:** I consider myself an origamist and a drummer too
-
-📫 **Let's connect!**
-[LinkedIn](https://www.linkedin.com/in/pedro-g-villegas)
 <!--
 **Petercantropvs/Petercantropvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
