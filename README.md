@@ -1,8 +1,8 @@
 ### Hi there, I'm Pedro! 👋
 
-🔭 **Advanced Astronomy student** based in Argentina.
-🥁 **Drummer**, currently playing in a jazz quartet 🎷.
-⚡ **Origamist**
+- 🔭 **Advanced Astronomy student** based in Argentina.
+- 🥁 **Drummer**, currently playing in a jazz quartet 🎷.
+- ⚡ **Origamist**
 
 <!--
 **Petercantropvs/Petercantropvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
